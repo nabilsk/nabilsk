@@ -2,7 +2,7 @@
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently working with React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on nabilshaikh7730@gmail.com
 
 <!---
 nabilsk/nabilsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
