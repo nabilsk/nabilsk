@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nabilsk
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently working with React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
