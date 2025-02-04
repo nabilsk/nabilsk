@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabilsk
-- 👀 I’m interested in Application Development
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently working with React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on nabilshaikh7730@gmail.com
